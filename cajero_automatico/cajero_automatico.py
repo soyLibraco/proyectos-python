@@ -26,9 +26,14 @@ while True:
         sleep(0.5)
     elif opcion_menu == "2":
         print()
-        deposito = float(input("Defina la cantidad de dinero que desea depositar: "))
-        print()
+        try:
+            deposito = float(input("Defina la cantidad de dinero que desea depositar: "))
+        except ValueError:
+            print()
+            print("Valor ingresado inválido.")
+            continue
         if deposito <= 0:
+            print()
             print("Valor ingresado inválido.")
             print()
             continue
@@ -42,8 +47,14 @@ while True:
         sleep(0.5)
     elif opcion_menu == "3":
         print()
-        retiro = float(input("Defina cuánto dinero desea retirar: "))
+        try:
+            retiro = float(input("Defina cuánto dinero desea retirar: "))
+        except ValueError:
+            print()
+            print("Valor ingresado inválido.")
+            continue
         if saldo_inicial < retiro:
+            print()
             print("No tiene saldo suficiente.")
             print()
             continue
