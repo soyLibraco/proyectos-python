@@ -14,4 +14,4 @@ Pequeños proyectos desarrollados mientras aprendo Python, como parte de mi proc
 - Juego contra la máquina con marcador acumulado por partida.
 
 ## Trivia
-- Quiz de cultura general con opciónes múltiples, puntaje y mensaje final según el resultado.
+- Quiz de cultura general con opciones múltiples, puntaje y mensaje final según el resultado.
