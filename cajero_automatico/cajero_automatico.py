@@ -122,7 +122,7 @@ while True:
         saldo = retirar_saldo(saldo)
 
     elif opcion == "4":
-        historial_movimientos = mostrar_historial(historial)
+        mostrar_historial(historial)
     
     elif opcion == "5":
         salida()
