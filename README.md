@@ -8,7 +8,7 @@ Pequeños proyectos desarrollados mientras aprendo Python, como parte de mi proc
 
 ## Cajero automático
 - Simulador de cajero automático (ATM) con menú interactivo.
-  Incluye consultas de saldo, depósitos, extracciones con validación de fondos suficientes y manejo de errores.
+  Incluye consultas de saldo, depósitos, extracciones con validación de fondos suficientes, historial de movimientos y manejo de errores.
 
 ## Piedra, papel o tijera
 - Juego contra la máquina con marcador acumulado por partida.
