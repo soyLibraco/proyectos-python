@@ -2,16 +2,30 @@
 
 Pequeños proyectos desarrollados mientras aprendo Python, como parte de mi proceso de formación.
 
-## Adivinar el número
+### Adivinar el número
 - El programa elige un número al azar y el usuario tiene que adivinarlo.
   Incluye pistas y contador de intentos.
 
-## Cajero automático
+### Cajero automático
 - Simulador de cajero automático (ATM) con menú interactivo.
   Incluye consultas de saldo, depósitos, extracciones con validación de fondos suficientes, historial de movimientos y manejo de errores.
 
-## Piedra, papel o tijera
+### Piedra, papel o tijera
 - Juego contra la máquina con marcador acumulado por partida.
 
-## Trivia
+### Trivia
 - Quiz de cultura general con opciones múltiples, puntaje y mensaje final según el resultado.
+
+### Gestor de Coberturas Fotográficas
+- Primera versión de una aplicación para gestionar trabajos fotográficos.
+
+Funcionalidades actuales:
+- Agregar coberturas.
+- Visualizar coberturas cargadas.
+- Buscar coberturas por nombre de evento, cliente o tipo.
+- Almacenamiento mediante listas y diccionarios.
+
+Próximas mejoras:
+- Estadísticas de coberturas.
+- Eliminación de coberturas.
+- Guardado de datos en archivo.
