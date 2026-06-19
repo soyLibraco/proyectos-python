@@ -13,6 +13,7 @@ Fue desarrollado como práctica de programación utilizando listas, funciones, e
     - Cantidad total de coberturas.
     - Cantidad total de fotografías.
     - Coberturas agrupadas por tipo de evento.
+    - Promedio de fotografías por cobertura.
 
 ## Tecnologías utilizadas
 - Python 3
@@ -20,7 +21,7 @@ Fue desarrollado como práctica de programación utilizando listas, funciones, e
 - Listas
 - Bucles for y while
 - Condicionales
-- Diccionarios
+- Busqueda y procesamiento de datos
 
 ## Ejemplo de cobertura
 | Campo | Valor |
