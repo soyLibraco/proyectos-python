@@ -21,7 +21,7 @@ Fue desarrollado como práctica de programación utilizando listas, funciones, e
 - Listas
 - Bucles for y while
 - Condicionales
-- Busqueda y procesamiento de datos
+- Búsqueda y procesamiento de datos
 
 ## Ejemplo de cobertura
 | Campo | Valor |
