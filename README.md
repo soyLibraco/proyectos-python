@@ -17,15 +17,17 @@ Pequeños proyectos desarrollados mientras aprendo Python, como parte de mi proc
 - Quiz de cultura general con opciones múltiples, puntaje y mensaje final según el resultado.
 
 ### Gestor de Coberturas Fotográficas
-- Primera versión de una aplicación para gestionar trabajos fotográficos.
+Aplicación de consola para gestionar coberturas fotográficas.
 
-Funcionalidades actuales:
+Funciones:
 - Agregar coberturas.
-- Visualizar coberturas cargadas.
-- Buscar coberturas por nombre de evento, cliente o tipo.
-- Almacenamiento mediante listas y diccionarios.
+- Ver coberturas registradas.
+- Buscar coberturas por palabra clave.
+- Ver estadísticas generales.
 
-Próximas mejoras:
-- Estadísticas de coberturas.
-- Eliminación de coberturas.
-- Guardado de datos en archivo.
+Tecnologías:
+- Python
+- Listas
+- Funciones
+- Bucles
+- Diccionarios
